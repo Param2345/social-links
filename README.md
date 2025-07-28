@@ -36,4 +36,4 @@ A simple, responsive **profile card** built with HTML and CSS featuring a **glas
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Param2345/Qr-code.git
+   git clone https://github.com/Param2345/social-links.git
